@@ -1,4 +1,4 @@
-**About Me!**
+## Hello World
 
 - 🙋🏼‍♂️ I’m a Senior Data Scientist at Wealthfront, specializing in causal inference.
 - 📚 Prior to Wealthfront, I studied statistics at Oxford, where I became fascinated in the niche intersection of causal inference and machine learning.
