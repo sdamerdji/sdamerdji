@@ -1,7 +1,7 @@
 ## hi there!
 
 ##### About me
-- 🙋🏼‍♂️ I’m a Staff Data Scientist at [Wealthfront](https://www.forbes.com/sites/digital-assets/2024/02/13/the-future-of-investing-fintech-50-2024/?sh=1dfebbf4f338), specializing in causal inference.
+- 🙋🏼‍♂️ I’m a Data Scientist at [Wealthfront](https://www.forbes.com/sites/digital-assets/2024/02/13/the-future-of-investing-fintech-50-2024/?sh=1dfebbf4f338), specializing in causal inference.
 - 📚 I studied statistics at Berkeley (BA '19) and Oxford (MS '23), with a special interest in ML + causal inference.
 - 🤖 I spent 2020-2022 building a market-leading [AI tool](https://www.youtube.com/watch?v=wZe_E2lqW_Q) for chip design at Synopsys.
 - 🏗️ The rent is [too damn high](https://www.youtube.com/watch?v=kcsNbQRU5TI), so I spend my free time on housing policy data science projects like this [one](https://rezonesf.shinyapps.io/rezoner/) or that [one](https://github.com/sdamerdji/planningGPT), and sometimes my work gets covered in [state](https://calmatters.org/commentary/2021/09/california-housing-plans-quotas-crisis/) or [local](https://www.losaltosonline.com/news/la-lah-deemed-exclusionary-as-they-prep-housing-plans/article_fd28fb20-1dc0-11ed-ae69-279a84d66c92.html) [news](https://www.sfchronicle.com/opinion/openforum/article/housing-element-san-francisco-19384436.php).
