@@ -1,7 +1,7 @@
 ## hi there!
 
 ##### About me
-- 🙋🏼‍♂️ I'm studying for the AICP exam and co-founding a startup that builds productivity tools for local planning departments.
+- 🙋🏼‍♂️ I'm co-founding planweave.ai - we're automating build permit review.
 - 💸 Previously, I was a Data Scientist at [Wealthfront](https://www.forbes.com/sites/digital-assets/2024/02/13/the-future-of-investing-fintech-50-2024/?sh=1dfebbf4f338), specializing in causal inference.
 - 📚 I studied statistics at Berkeley (BA '19) and Oxford (MS '23), with a special interest in ML + causal inference.
 - 🤖 I spent 2020-2022 building a market-leading [AI tool](https://www.youtube.com/watch?v=wZe_E2lqW_Q) for chip design at Synopsys.
